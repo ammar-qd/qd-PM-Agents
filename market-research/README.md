@@ -28,7 +28,7 @@ Use the market research prompt file from:
 
 ### 4. Ask for your research task
 Example:
-`Research the market for process mining tools and create a competitive analysis`
+`Research the market for Aggregate Spend tools and create a competitive analysis`
 
 ### 5. Add more context when useful
 Examples:
